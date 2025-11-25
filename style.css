@@ -1,0 +1,161 @@
+header {
+		border:2px grey solid;
+		background-color:#b1dedb;
+		margin-left:-8px;
+		margin-right:-8px;
+		margin-top:-8px;
+		height:200px;
+        }
+.photo  {
+		border: 1px black solid;
+		margin-right:1120px;
+		height:200px;
+		background-image:url("image.jpg");
+		background-size:225px;
+		background-repeat:no-repeat;
+		
+        }
+.identité {
+		margin-left:300px;
+		margin-top:-200px;
+          }
+
+.nom {
+		font-weight:bold;
+		font-size:30px;
+     } 
+span {
+		font-style:italic;
+		font-size:30px;
+      }
+.bleu {
+		color:blue;
+		margin-left:300px;
+		font-family:Arial;
+		font-size:25px;
+      }
+nav {
+		border-right:6px black solid;
+		margin-top:-500px;
+		width:600px;
+		height:800px;
+		margin-left:-8px;
+		margin-top:1px;
+		    }
+.barre {
+		border:2px black solid;
+		width:950px;
+		margin-left:300px;
+		margin-top:20px;
+       }
+.Profil {
+		border:1px black solid;
+		border:1px black solid;
+
+		width:350px;
+		height:40px;
+		margin-left:100px;
+		margin-top:50px;
+		background-color:black;
+         }
+h2 {
+		color:white;
+		text-align:center;
+		font-size:30px;
+		font-family:Arial;
+		margin-top:2px;
+   }
+.phrase {
+		font-weight:bold;
+		font-size:20px;
+		text-align:center;
+         }
+.reponse {
+		text-align:center;
+	}
+.compétences {
+		border:1px black solid;
+		width:350px;
+		height:40px;
+		margin-left:100px;
+		background-color:black;
+	     }
+.Langues {
+		border:1px black solid;
+		width:350px;
+		height:40px;
+		margin-left:1px;
+		background-color:black;
+	     }
+.Loisirs {
+		border:1px black solid;
+		width:350px;
+		height:40px;
+		margin-left:1px;
+		background-color:black;
+	}
+section {
+		
+		margin-left:600px;
+		margin-top:-800px;
+		width:720px;
+		height:800px;
+	}
+.Formation  {
+		border:1px black solid;
+	    	width:350px;
+		height:40px;
+		margin-left:175px;
+		background-color:black;
+
+
+ }
+.date 	{
+		color:grey;
+		margin-left:10px;
+		font-family:Arial;
+		display: inline-block;
+
+	}
+
+.CEPE {		font-weight:bold;
+		font-size:20px;
+		text-align:center;
+		display: inline-block;
+		position:relative;
+		left:275px;
+         }
+.BEPC {		font-weight:bold;
+		font-size:20px;
+		text-align:center;
+		display: inline-block;
+		position:relative;
+		left:275px;
+	}
+.Baccalauréat {
+		font-weight:bold;
+		font-size:20px;
+		text-align:center;
+		display: inline-block;
+		position:relative;
+		left:275px;
+	      }
+.Licence {
+		font-weight:bold;
+		font-size:20px;
+		text-align:center;
+		display: inline-block;
+		position:relative;
+		left:275px;
+	      }
+.Expérience {
+		border:1px black solid;
+	    	width:350px;
+		height:40px;
+		margin-left:175px;
+		background-color:black;
+
+
+	
+
+		
